@@ -1,0 +1,2 @@
+# devops-
+basic commands 
